@@ -13,7 +13,6 @@ Documentation = "https://github.com/mariobilly/msch-edge-ascii/blob/main/docs/NO
 "Bug Tracker" = "https://github.com/mariobilly/msch-edge-ascii/issues"
 
 [tool.comfy]
-# Set to the publisher ID you own at registry.comfy.org before publishing.
-PublisherId = ""
+PublisherId = "mariobilly"
 DisplayName = "MSCH Edge ASCII"
 
