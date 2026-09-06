@@ -4,9 +4,11 @@ Contour-aligned ASCII strokes, halftone fills and animated marks for photos and 
 
 [Node reference](docs/NODES.md) · [Example workflows and results](examples/README.md) · [Publishing guide](PUBLISHING.md)
 
-![Actual demo output](examples/results/demo.png)
+<!-- MSCH SHOWCASE -->
+[![MSCH Edge ASCII showcase](examples/showcase/outputs/dancers_flow_00002__preview.jpg)](examples/showcase/README.md)
 
-[Play / download the rendered demo](examples/results/demo.mp4)
+**[View the showcase: videos, images and workflows](examples/showcase/README.md)**
+<!-- /MSCH SHOWCASE -->
 
 ## Included nodes
 
